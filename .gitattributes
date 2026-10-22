@@ -1,0 +1,3 @@
+/upstream/** -text
+/runtime/** -text
+/vendor/** -text
